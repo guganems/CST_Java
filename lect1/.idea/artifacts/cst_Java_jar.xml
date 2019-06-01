@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cst_Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cst_Java_jar</output-path>
+    <root id="archive" name="cst_Java.jar">
+      <element id="module-output" name="cst_Java" />
+    </root>
+  </artifact>
+</component>
